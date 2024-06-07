@@ -1,4 +1,4 @@
-# BKND1---Challenges
+# Desafíos
 
 
-Welcome this repository exclusively for my challenges.
+Veremos cómo completo ésto.
